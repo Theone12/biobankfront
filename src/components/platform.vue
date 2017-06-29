@@ -1,12 +1,14 @@
 <template>
-  <div class="content-wrapper">
-    首页
+  <div class="platform">
+    这里是平台配置 <br>
+    这里是平台配置 <br>
+    这里是平台配置 <br>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'hello',
+  name: 'platform',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
@@ -16,6 +18,6 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
+<style>
 
 </style>

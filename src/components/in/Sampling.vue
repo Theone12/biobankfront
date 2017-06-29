@@ -1,6 +1,6 @@
 <template>
-  <div class="content-wrapper">
-    首页
+  <div class="sampling">
+    采样
   </div>
 </template>
 
@@ -17,5 +17,11 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
+  .sampling{
+    position: absolute;
+    left: 200px;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
 </style>

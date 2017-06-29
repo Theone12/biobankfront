@@ -1,12 +1,17 @@
 <template>
-  <div class="content-wrapper">
-    首页
+  <div class="index">
+    这里是首页 <br>
+    这里是首页 <br>
+    这里是首页 <br>
+    这里是首页 <br>
+    这里是首页 <br>
+    这里是首页 <br>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'hello',
+  name: 'index',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
@@ -16,6 +21,6 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
+<style>
 
 </style>
