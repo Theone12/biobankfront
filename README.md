@@ -1,6 +1,7 @@
 # biobankfront
 
-> A Vue.js project
+> 样本库管理系统前端页面
+> 所用技术：vue adminlte bootstrap jquery bootstrap-table
 
 ## Build Setup
 
